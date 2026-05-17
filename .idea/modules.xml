@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kareta-0946x/Client/Client.iml" filepath="$PROJECT_DIR$/Kareta-0946x/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kareta-0946x/Communicator/Communicator.iml" filepath="$PROJECT_DIR$/Kareta-0946x/Communicator/Communicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kareta-0946x/Server/Server.iml" filepath="$PROJECT_DIR$/Kareta-0946x/Server/Server.iml" />
+    </modules>
+  </component>
+</project>
